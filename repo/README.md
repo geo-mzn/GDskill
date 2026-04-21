@@ -1,2 +1,4 @@
 # GDskill/repo
-this is the folder for resources in the readme.
+this is the folder for resources in the main readme.
+
+![soggy.](GDskill/repo)
