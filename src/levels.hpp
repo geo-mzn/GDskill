@@ -13,7 +13,7 @@ struct WorldLevel {
 
 inline std::vector<WorldLevel> getWorldLevels(float width, float height, int worldNum) {
     if (worldNum == 1) return {
-        {123562726, width * 0.25f, height * 0.80f - 60.f, 1, "jarvisdevil", 30483751, 257687092},
+        {138177615, width * 0.25f, height * 0.80f - 60.f, 1, "GeomznGD", 29691012, 255476051}
         {123673148, width * 0.25f, height * 0.65f - 60.f, 2, "jarvisdevil", 30483751, 257687092},
         {124928602, width * 0.35f, height * 0.55f - 60.f, 3, "6Yt", 27334543, 241385219},
         {123699729, width * 0.45f, height * 0.50f - 60.f, 4, "Junotrion", 22572488, 133524459},
