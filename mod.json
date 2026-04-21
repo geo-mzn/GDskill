@@ -11,7 +11,7 @@
 	"version": "v1.0.0",
 	"developer": "GeomznGD",
 	"contributors": ["jarvisdevil (og code)"]
-	"description": "Adds a new 'Skill' button to the creator page.",
+	"description": "Adds a new 'Worlds' button to the creator page.",
 	"dependencies": {
 		"geode.node-ids": {
 			"version": ">=1.21.1",
