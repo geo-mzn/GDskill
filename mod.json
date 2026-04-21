@@ -6,11 +6,12 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "jarvisdevil.the_map",
-	"name": "The Map",
-	"version": "v2.1.1",
-	"developer": "jarvisdevil",
-	"description": "Adds my version of The Map in Geometry Dash.",
+	"id": "geo_mzngd.gdskill",
+	"name": "Geometry Dash: Skill",
+	"version": "v1.0.0",
+	"developer": "GeomznGD",
+	"contributors": ["jarvisdevil (og code)"]
+	"description": "Adds a new 'Skill' button to the creator page.",
 	"dependencies": {
 		"geode.node-ids": {
 			"version": ">=1.21.1",
@@ -25,8 +26,8 @@
 		},
 		"unlock-all": {
             "type": "bool",
-            "name": "[Cheat] Unlock All",
-            "description": "Unlocks all levels in The Map.",
+            "name": "Unlock All",
+            "description": "Unlocks all levels in GD Skill.",
             "default": false
         }
 	},
@@ -51,8 +52,6 @@
 		"universal"
 	],
 	"links": {
-		"homepage": "https://jarvisdevil.com/?source=themap_geode",
-		"community": "https://discord.gg/EygBPh6JwW",
-		"source": "https://github.com/thejarvisdevil/TheMap"
-	}
+		"homepage": "https://geo-mzn.github.io/gdskill",
+		"source": "https://github.com/geo-mzn/GDskill"
 }
