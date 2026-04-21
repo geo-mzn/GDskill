@@ -3,7 +3,9 @@
 
 # The Map:
 [GitHub Repo](https://github.com/thejarvisdevil/TheMap)
+
 [The Map Geode Mod](https://geode-sdk.org/mods/jarvisdevil.the_map)
+
 [jarvisdevil's mods on the Geode index](https://geode-sdk.org/mods?developer=thejarvisdevil)
   
 ## How to Play
